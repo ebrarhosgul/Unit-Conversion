@@ -5,6 +5,7 @@
 
 I developed a Unit Conversion App. This application returns the value you enter by converting meter-feet, liters-gallons, kilograms-pounds. You can easily find out which unit you need and how much in which unit.
 
+I used Figma file to planning and I designed it according to the desired dimensions. You can test this project by following [this link](https://ebrar-unit-conversion-app.netlify.app/).
 
 ## :camera: Screenshot
 
